@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 - ![VAIBAHV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=radical)
 
-- [![VAIBHAV0526's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VAIBHAV0526](https://github.com/VAIBHAV0526/github-readme-stats)
+- ![VAIBHAV0526's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VAIBHAV0526](https://github.com/VAIBHAV0526/github-readme-stats)
 - 👋 Hi, I’m @VAIBHAV SINGH
 - 👀 I’m interested in ...MACHINE LEARNING ,WEB DEVLOPMENT AND COMPETITVE CODING
 - 🌱 I’m currently learning ...MACHINE LEARNING,competative programming 
