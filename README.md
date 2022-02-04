@@ -4,8 +4,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 - ![VAIBAHV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=radical)
 
-- ![VAIBHAV0526's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VAIBHAV0526](https://github.com/VAIBHAV0526/github-readme-stats)
-- 👋 Hi, I’m @VAIBHAV SINGH
+- <a href="https://github.com/VAIBHAV0526/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VAIBHAV0526&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/VAIBHAV0526/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 - 👀 I’m interested in ...MACHINE LEARNING ,WEB DEVLOPMENT AND COMPETITVE CODING
 - 🌱 I’m currently learning ...MACHINE LEARNING,competative programming 
 - 💞️ I’m looking to collaborate on .machine learning and deep learnign
