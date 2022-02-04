@@ -1,5 +1,7 @@
-- ![Your Name - Anything about your banner](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2021%2F10%2Fnick-hillier-yD5rv8_WzxA-unsplash.jpg&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fstring-to-int-in-c-how-to-convert-a-string-to-an-integer-example%2F&tbnid=RK1COO2bLRLHHM&vet=10CEUQMyiHAWoXChMI-L-0jf_l9QIVAAAAAB0AAAAAEAI..i&docid=AQ_yPrh7iQfDTM&w=2000&h=1333&q=C%2B%2B%20%20COOL%20TEXT&client=safari&ved=0CEUQMyiHAWoXChMI-L-0jf_l9QIVAAAAAB0AAAAAEAI)`
-- 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman)
+ - [![GitHub followers](https://img.shields.io/github/followers/hidaytrahman.svg?style=social&label=Follow)](https://github.com/hidaytrahman?tab=followers)
+- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 - 
 - 
 - 👋 Hi, I’m @VAIBHAV SINGH
