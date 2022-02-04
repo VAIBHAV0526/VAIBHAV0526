@@ -2,9 +2,9 @@
  - [![GitHub followers](https://img.shields.io/github/followers/VAIBHAV0526.svg?style=social&label=Follow)](https://github.com/VAIBHAV0526?tab=followers)
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=radical)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VAIBHAV0526&repo=github-readme-stats)](https://github.com/VAIBHAV0526/github-readme-stats)
-- 
+- ![VAIBAHV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=radical)
+
+- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/VAIBHAV0526/github-readme-stats)
 - 👋 Hi, I’m @VAIBHAV SINGH
 - 👀 I’m interested in ...MACHINE LEARNING ,WEB DEVLOPMENT AND COMPETITVE CODING
 - 🌱 I’m currently learning ...MACHINE LEARNING,competative programming 
