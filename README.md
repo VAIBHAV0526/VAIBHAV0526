@@ -15,10 +15,7 @@
 <br> -->
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcominguprosestheblog.com%2Fgreat-things-take-time%2F&psig=AOvVaw2i6UXnBYt0NuLPj6vOMb1m&ust=1646037795938000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJig0eS-n_YCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/74946719/155875249-215bd529-b064-4459-81c7-6b44b958b29d.png)
 
-
-- 👀 I’m interested in ...MACHINE LEARNING ,WEB DEVLOPMENT AND COMPETITVE CODING
 - 🌱 I’m currently learning ...MACHINE LEARNING,competative programming 
 - 💞️ I’m looking to collaborate on .machine learning and deep learnign
 - 📫 How to reach me email- vssigh05262001@gmail
