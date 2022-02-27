@@ -1,8 +1,9 @@
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman)
+<!-- [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman)
  - [![GitHub followers](https://img.shields.io/github/followers/VAIBHAV0526.svg?style=social&label=Follow)](https://github.com/VAIBHAV0526?tab=followers)
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-- ![VAIBAHV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=radical)
+- ![VAIBAHV's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=radical) -->
+<img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=tokyonight" />
 
 - <a href="https://github.com/VAIBHAV0526/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VAIBHAV0526&repo=github-readme-stats" />
@@ -10,6 +11,11 @@
 <a href="https://github.com/VAIBHAV0526/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+<br>
+
+
+
+
 - 👀 I’m interested in ...MACHINE LEARNING ,WEB DEVLOPMENT AND COMPETITVE CODING
 - 🌱 I’m currently learning ...MACHINE LEARNING,competative programming 
 - 💞️ I’m looking to collaborate on .machine learning and deep learnign
