@@ -13,7 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 <br> -->
-
 [![@zeus's Holopin board](https://holopin.io/api/user/board?user=zeus)](https://holopin.io/@zeus)
 <!-- 
 - 🌱 I’m currently learning ...MACHINE LEARNING,competative programming 
