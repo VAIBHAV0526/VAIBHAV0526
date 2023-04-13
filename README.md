@@ -1,14 +1,6 @@
-<style>
- .wrapper{
- display:flex:
- 
- 
-}
- 
- </style>
 
 
-<div class="wrapper">
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/psi4) <img  width ="200px" src="https://leetcode-badge-showcase.vercel.app/api?username=psi4" alt="LeetCode Badges"/>
 
 
@@ -21,7 +13,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV0526&show_icons=true&theme=tokyonight" />
  -->
  <a href="https://app.daily.dev/constant_loop"><img src="https://api.daily.dev/devcards/3d806c3c846448bbb5df88ae18173710.png?r=sha" width="200" alt="Vaibhav Singh's Dev Card"/></a>
-</div>
+
 <!-- - <a href="https://github.com/VAIBHAV0526/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VAIBHAV0526&repo=github-readme-stats" />
 </a>
