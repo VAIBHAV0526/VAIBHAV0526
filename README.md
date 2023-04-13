@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/psi4) ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=psi4)
+![Leetcode Stats](https://leetcard.jacoblin.cool/psi4) <img  width ="200px" src="https://leetcode-badge-showcase.vercel.app/api?username=psi4" alt="LeetCode Badges"/>
 
 
 
