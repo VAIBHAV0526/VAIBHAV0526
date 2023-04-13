@@ -1,3 +1,7 @@
+![Leetcode Stats](https://leetcard.jacoblin.cool/phi4)
+
+
+
 <!-- [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman)
  - [![GitHub followers](https://img.shields.io/github/followers/VAIBHAV0526.svg?style=social&label=Follow)](https://github.com/VAIBHAV0526?tab=followers)
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
