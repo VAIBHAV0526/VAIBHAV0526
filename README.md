@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/phi4)
+![Leetcode Stats](https://leetcard.jacoblin.cool/psi4)
 
 
 
